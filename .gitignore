@@ -23,3 +23,7 @@
 hs_err_pid*
 replay_pid*
 /build/
+<<<<<<< HEAD
+=======
+/dist/
+>>>>>>> 1259e3ee65c005692dbf84a1a54045a316602ccc
